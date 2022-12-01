@@ -1,5 +1,4 @@
-ro.display.series=Samsung Galaxy F62
-ro.product.board=exynos9825
+ro.display.series="Samsung Galaxy F62"
 ro.board.platform=universal9825_r
 sys.usb.controller=10c00000.dwc3
 ro.boot.usbcontroller=10c00000.dwc3
